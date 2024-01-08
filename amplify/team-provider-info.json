@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-androidgettingstarte-dev-175626-authRole",
+      "UnauthRoleArn": "arn:aws:iam::301487462336:role/amplify-androidgettingstarte-dev-175626-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::301487462336:role/amplify-androidgettingstarte-dev-175626-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-androidgettingstarte-dev-175626-deployment",
+      "UnauthRoleName": "amplify-androidgettingstarte-dev-175626-unauthRole",
+      "StackName": "amplify-androidgettingstarte-dev-175626",
+      "StackId": "arn:aws:cloudformation:ap-south-1:301487462336:stack/amplify-androidgettingstarte-dev-175626/22bef7e0-48c2-11ee-8052-025b8a84360c",
+      "AmplifyAppId": "d2z7phcuzrzdce"
+    },
+    "categories": {
+      "auth": {
+        "androidgettingstarte3e546115": {}
+      }
+    }
+  },
+  "default": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-androidgettingstarte-default-131900-authRole",
+      "UnauthRoleArn": "arn:aws:iam::301487462336:role/amplify-androidgettingstarte-default-131900-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::301487462336:role/amplify-androidgettingstarte-default-131900-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-androidgettingstarte-default-131900-deployment",
+      "UnauthRoleName": "amplify-androidgettingstarte-default-131900-unauthRole",
+      "StackName": "amplify-androidgettingstarte-default-131900",
+      "StackId": "arn:aws:cloudformation:ap-south-1:301487462336:stack/amplify-androidgettingstarte-default-131900/b58e1c90-a2f9-11ee-8f22-02932b44bd34",
+      "AmplifyAppId": "d2ixgxu9i0jfte"
+    },
+    "categories": {
+      "auth": {
+        "androidgettingstarte3e546115": {}
+      }
+    }
+  }
+}
